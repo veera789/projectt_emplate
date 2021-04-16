@@ -1,2 +1,2 @@
 # projectt_emplate
-inheritance template
+print("inheritance template")
